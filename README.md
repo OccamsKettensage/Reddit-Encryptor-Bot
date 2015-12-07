@@ -7,7 +7,7 @@ Link to the bot: reddit.com/u/Vibhanshu3
 
 To call the bot, comment:
 
-Encrypt: <your message>
+Encrypt: "your message"
 
 And the bot will reply with the encrypted message.
 
