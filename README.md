@@ -2,7 +2,7 @@
 A reddit bot that can encrypt comments on reddit when called. Uses the RSA technique for encryption.
 
 Written in Python, this bot can encrypt comments on reddit when called. While this bot can work throughout reddit, I have 
-currently limited its reach to the testing subreddit (/r/test).
+currently limited its reach to the testing subreddit (reddit.com/r/test).
 Link to the bot: reddit.com/u/Vibhanshu3 
 
 To call the bot, comment:
