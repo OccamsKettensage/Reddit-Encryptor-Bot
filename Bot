@@ -106,7 +106,7 @@ keyword = "Encrypt: "  # the 'command' that 'calls' the bot. This is what the co
 # a while loop to keep it running forever
 while True:
     
-    subreddit = r.get_subreddit ('test')
+    subreddit = r.get_subreddit ('test')  #the subreddit we're searching.
     all_comments = subreddit.get_comments()
     flat_comments = praw.helpers.flatten_tree(all_comments)   #to make search easier
     
