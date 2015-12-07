@@ -19,5 +19,7 @@ as soon as they're made because it refreshes list of comments every minute.
 
 I am also trying to circumvent reddit's post per minute policy so as to make the bot work faster.
 
+Feel free to suggest improvements! Critique is always welcome.
+
 
 
