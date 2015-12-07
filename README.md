@@ -17,6 +17,7 @@ it run without depending on me.
 However, if you want to see the bot in action, send me a message and I'll run it for you. When the bot is running, it can encrypt comments
 as soon as they're made because it refreshes list of comments every minute.
 
+I am also trying to circumvent reddit's post per minute policy so as to make the bot work faster.
 
 
 
